@@ -1,0 +1,40 @@
+div{
+    height: 37vh;
+    width: 18vw;
+    background-color: peru;
+    border: 2px solid maroon;
+    box-sizing: border-box;
+    border-radius: 8px;
+    margin-left: 42%;
+    margin-top: 7%;
+    
+    
+}
+
+.screen{
+    height: 5vh;
+    width: 31vh;
+    border: 2px solid blue;
+    border-radius: 7px;
+    margin: 5px;
+    background-color: darkgray;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.btn{
+    margin-top: 4%;
+    /* box-sizing: border-box; */
+    height: 5vh;
+    width: 4vw;
+    background-color: blueviolet;
+    color: navajowhite;
+    border-radius: 8px;
+    border: 2px solid black;
+    
+    
+}
+
+body{
+    background-color: mediumseagreen;
+}
